@@ -1,32 +1,49 @@
 {
-  "name": "TickLab",
-  "founded": 2023,
-  "description": "Start here, go anywhere",
-  "avarta": "https://avatars.githubusercontent.com/u/128288626?v=4",
-  "activeMembers": 19,
-  "publicRepositories": 18,
+  "name": "Holistics",
+  "founded": 2015,
+  "description": "",
+  "avarta": "https://avatars.githubusercontent.com/u/12168382?v=4",
+  "activeMembers": 1,
+  "publicRepositories": 23,
   "programmingLanguages": [
-    "TypeScript",
-    "JavaScript",
-    "Dockerfile",
-    "Shell",
-    "CSS",
-    "HTML",
-    "PLpgSQL",
-    "Python",
-    "Dart",
-    "C++",
-    "CMake",
-    "Swift",
-    "C",
-    "Kotlin",
-    "Objective-C",
-    "Rust",
+    "Ruby",
     "Go",
-    "Cuda",
+    "HTML",
+    "JavaScript",
+    "Python",
+    "R",
+    "ANTLR",
+    "TypeScript",
+    "PEG.js",
+    "TSQL",
+    "PLSQL",
+    "SCSS",
+    "PLpgSQL",
+    "CSS",
+    "C",
+    "Shell",
+    "PowerShell",
     "Vue",
+    "C++",
+    "Java",
+    "C#",
     "Cython",
-    "Astro"
+    "MATLAB",
+    "Swift",
+    "CMake",
+    "Dockerfile",
+    "Meson",
+    "Thrift",
+    "Batchfile",
+    "Makefile",
+    "Vala",
+    "Jinja",
+    "Objective-C++",
+    "Lua",
+    "Awk",
+    "FreeMarker",
+    "sed",
+    "Emacs Lisp"
   ],
   "followers": "",
   "contributors": "",
@@ -41,169 +58,243 @@
   },
   "topRepositories": [
     {
-      "name": "tonic",
-      "description": "Swagger documentation for Go",
-      "license": null,
-      "stars": 35,
-      "forks": 1,
-      "openIssues": 0
+      "name": "dbml",
+      "description": "Database Markup Language (DBML), designed to define and document database structures",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "stars": 2610,
+      "forks": 163,
+      "openIssues": 102
     },
     {
-      "name": "tpulse",
-      "description": "⏳Collect working time from members",
+      "name": "js",
+      "description": "Holistics open-source javascript packages",
       "license": null,
-      "stars": 8,
-      "forks": 0,
-      "openIssues": 4
-    },
-    {
-      "name": "simple-csv-query-tool",
-      "description": "C++ challenge for collborators",
-      "license": null,
-      "stars": 4,
-      "forks": 1,
+      "stars": 30,
+      "forks": 2,
       "openIssues": 2
+    },
+    {
+      "name": "pgcp",
+      "description": "Copying tables between Postgres databases (for analytics purpose)",
+      "license": null,
+      "stars": 7,
+      "forks": 0,
+      "openIssues": 5
     }
   ],
   "repositoryStats": {
-    "totalStars": 56,
-    "totalForks": 6,
-    "totalOpenIssues": 58,
+    "totalStars": 2670,
+    "totalForks": 177,
+    "totalOpenIssues": 123,
     "totalClosedIssues": 0,
     "languages": [
       {
-        "language": "Go",
-        "percentage": "0.18"
+        "language": "JavaScript",
+        "percentage": "14.91"
       },
       {
-        "language": "Rust",
-        "percentage": "0.90"
+        "language": "ANTLR",
+        "percentage": "0.62"
       },
       {
         "language": "TypeScript",
-        "percentage": "34.73"
+        "percentage": "2.06"
       },
       {
-        "language": "JavaScript",
-        "percentage": "3.45"
+        "language": "PEG.js",
+        "percentage": "0.11"
       },
       {
-        "language": "CSS",
-        "percentage": "0.31"
+        "language": "TSQL",
+        "percentage": "0.14"
       },
       {
-        "language": "HTML",
-        "percentage": "0.60"
+        "language": "Ruby",
+        "percentage": "4.09"
       },
       {
-        "language": "Dockerfile",
-        "percentage": "0.08"
+        "language": "PLSQL",
+        "percentage": "0.03"
       },
       {
-        "language": "Shell",
-        "percentage": "4.12"
+        "language": "SCSS",
+        "percentage": "0.00"
       },
       {
         "language": "PLpgSQL",
-        "percentage": "0.02"
-      },
-      {
-        "language": "Astro",
-        "percentage": "3.06"
-      },
-      {
-        "language": "C++",
-        "percentage": "0.86"
+        "percentage": "0.00"
       },
       {
         "language": "Python",
-        "percentage": "45.72"
+        "percentage": "4.66"
       },
       {
-        "language": "Dart",
-        "percentage": "5.12"
+        "language": "R",
+        "percentage": "2.36"
       },
       {
-        "language": "CMake",
-        "percentage": "0.31"
-      },
-      {
-        "language": "Swift",
-        "percentage": "0.04"
-      },
-      {
-        "language": "C",
+        "language": "HTML",
         "percentage": "0.02"
       },
       {
-        "language": "Kotlin",
-        "percentage": "0.00"
+        "language": "CSS",
+        "percentage": "0.01"
       },
       {
-        "language": "Objective-C",
-        "percentage": "0.00"
+        "language": "Go",
+        "percentage": "8.18"
       },
       {
-        "language": "Cuda",
-        "percentage": "0.28"
+        "language": "C",
+        "percentage": "1.92"
+      },
+      {
+        "language": "Shell",
+        "percentage": "0.64"
+      },
+      {
+        "language": "PowerShell",
+        "percentage": "0.00"
       },
       {
         "language": "Vue",
-        "percentage": "0.15"
+        "percentage": "0.02"
+      },
+      {
+        "language": "C++",
+        "percentage": "39.54"
+      },
+      {
+        "language": "Java",
+        "percentage": "11.76"
+      },
+      {
+        "language": "C#",
+        "percentage": "2.53"
       },
       {
         "language": "Cython",
+        "percentage": "2.51"
+      },
+      {
+        "language": "MATLAB",
+        "percentage": "1.23"
+      },
+      {
+        "language": "Swift",
+        "percentage": "1.08"
+      },
+      {
+        "language": "CMake",
+        "percentage": "1.06"
+      },
+      {
+        "language": "Dockerfile",
+        "percentage": "0.20"
+      },
+      {
+        "language": "Meson",
+        "percentage": "0.07"
+      },
+      {
+        "language": "Thrift",
+        "percentage": "0.05"
+      },
+      {
+        "language": "Batchfile",
+        "percentage": "0.05"
+      },
+      {
+        "language": "Makefile",
         "percentage": "0.04"
+      },
+      {
+        "language": "Vala",
+        "percentage": "0.03"
+      },
+      {
+        "language": "Jinja",
+        "percentage": "0.03"
+      },
+      {
+        "language": "Objective-C++",
+        "percentage": "0.02"
+      },
+      {
+        "language": "Lua",
+        "percentage": "0.01"
+      },
+      {
+        "language": "Awk",
+        "percentage": "0.01"
+      },
+      {
+        "language": "FreeMarker",
+        "percentage": "0.00"
+      },
+      {
+        "language": "sed",
+        "percentage": "0.00"
+      },
+      {
+        "language": "Emacs Lisp",
+        "percentage": "0.00"
       }
     ],
     "commitPerDay": [
-      571,
-      995,
-      1039,
-      966,
-      818,
-      941,
-      1081
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "commitPerHour": [
-      257,
-      191,
-      179,
-      157,
-      147,
-      81,
-      85,
-      52,
-      123,
-      183,
-      253,
-      311,
-      292,
-      288,
-      355,
-      425,
-      445,
-      422,
-      390,
-      363,
-      370,
-      389,
-      343,
-      310
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "commitPerMonthLastYear": [
-      37,
-      10,
-      2,
-      12,
       0,
       0,
       0,
-      9,
-      5,
-      23,
-      36,
-      26
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   "growthTrends": "",
@@ -212,10 +303,7 @@
     "pushEvents": [
       0,
       0,
-      2,
-      7,
       0,
-      1,
       0,
       0,
       0,
@@ -223,19 +311,22 @@
       0,
       0,
       4,
+      5,
+      2,
+      14,
+      11,
+      25,
+      2,
       0,
       0,
       0,
-      0,
-      10,
+      11,
       6,
+      3,
+      2,
       0,
-      0,
-      0,
-      0,
-      0,
-      13,
-      19,
+      1,
+      1,
       0,
       0,
       0,
@@ -256,6 +347,7 @@
       0,
       0,
       0,
+      2,
       0,
       0,
       0,
@@ -266,8 +358,7 @@
       0,
       0,
       0,
-      0,
-      0,
+      1,
       0,
       0,
       0,
@@ -278,25 +369,25 @@
     "pullRequestEvents": [
       0,
       0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6,
+      7,
+      6,
       1,
       0,
+      1,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
+      9,
+      1,
       0,
       0,
       0,
@@ -309,56 +400,56 @@
       0
     ],
     "codingHabits": {
-      "morning": 18,
-      "afternoon": 20,
-      "evening": 0,
-      "night": 29
+      "morning": 164,
+      "afternoon": 22,
+      "evening": 18,
+      "night": 80
     },
     "activeHour": [
-      1,
-      1,
-      8,
-      7,
-      5,
-      7,
-      7,
-      4,
+      2,
       3,
-      4,
-      0,
-      0,
+      20,
+      10,
+      25,
+      20,
       7,
-      0,
+      38,
+      24,
+      47,
+      39,
+      9,
+      2,
+      1,
       10,
       3,
+      3,
+      3,
+      6,
+      7,
+      3,
       1,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
+      1
     ],
     "activeDay": [
-      25,
-      5,
-      1,
-      1,
-      0,
-      4,
-      32
+      6,
+      107,
+      62,
+      53,
+      12,
+      22,
+      22
     ]
   },
   "highActivityPeriods": "",
   "topEngagement": "",
-  "contact": "ticklab.vn@gmail.com",
-  "githubUrl": "https://github.com/TickLabVN",
+  "contact": null,
+  "githubUrl": "https://github.com/holistics",
   "socialMedia": {
     "twitter": null,
     "linkedin": "",
     "facebook": ""
   },
-  "blogUrl": "https://ticklab.vn",
+  "blogUrl": "http://www.holistics.io",
   "frameworks": {}
 }
