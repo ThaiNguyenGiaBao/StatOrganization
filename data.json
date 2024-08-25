@@ -1,0 +1,320 @@
+{
+  "name": "TickLab",
+  "founded": 2023,
+  "description": "Start here, go anywhere",
+  "avarta": "https://avatars.githubusercontent.com/u/128288626?v=4",
+  "activeMembers": 4,
+  "publicRepositories": 18,
+  "programmingLanguages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS",
+    "Dockerfile",
+    "HTML",
+    "Shell",
+    "Python",
+    "Rust",
+    "Go",
+    "Astro",
+    "C++"
+  ],
+  "followers": "",
+  "contributors": "",
+  "recentAdditions": "",
+  "stargazersEvolution": {
+    "total": "",
+    "newPerDay": ""
+  },
+  "codingHabits": {
+    "activeHours": "",
+    "recentlyUsedLanguages": ""
+  },
+  "topRepositories": [
+    {
+      "name": "tonic",
+      "description": "Swagger documentation for Go",
+      "license": null,
+      "stars": 35,
+      "forks": 1,
+      "openIssues": 0
+    },
+    {
+      "name": "simple-csv-query-tool",
+      "description": "C++ challenge for collborators",
+      "license": null,
+      "stars": 4,
+      "forks": 1,
+      "openIssues": 2
+    },
+    {
+      "name": "development-path",
+      "description": "Interactive roadmaps, guides and other educational content to help members & collaborators grow in their careers.",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "stars": 1,
+      "forks": 0,
+      "openIssues": 0
+    }
+  ],
+  "repositoryStats": {
+    "totalStars": 41,
+    "totalForks": 6,
+    "totalOpenIssues": 5,
+    "totalClosedIssues": 0,
+    "languages": [
+      {
+        "language": "Go",
+        "percentage": "0.58"
+      },
+      {
+        "language": "TypeScript",
+        "percentage": "75.28"
+      },
+      {
+        "language": "Astro",
+        "percentage": "10.11"
+      },
+      {
+        "language": "JavaScript",
+        "percentage": "9.04"
+      },
+      {
+        "language": "CSS",
+        "percentage": "0.66"
+      },
+      {
+        "language": "Shell",
+        "percentage": "0.35"
+      },
+      {
+        "language": "C++",
+        "percentage": "0.23"
+      },
+      {
+        "language": "Dockerfile",
+        "percentage": "0.07"
+      },
+      {
+        "language": "HTML",
+        "percentage": "1.77"
+      },
+      {
+        "language": "Python",
+        "percentage": "1.83"
+      },
+      {
+        "language": "Rust",
+        "percentage": "0.07"
+      }
+    ],
+    "commitPerDay": [
+      439,
+      819,
+      868,
+      842,
+      694,
+      818,
+      727
+    ],
+    "commitPerHour": [
+      210,
+      173,
+      171,
+      140,
+      136,
+      79,
+      81,
+      50,
+      102,
+      142,
+      164,
+      215,
+      235,
+      234,
+      286,
+      333,
+      331,
+      354,
+      342,
+      305,
+      321,
+      303,
+      258,
+      242
+    ],
+    "commitPerMonthLastYear": [
+      50,
+      52,
+      101,
+      96,
+      242,
+      191,
+      208,
+      0,
+      116,
+      139,
+      135,
+      84
+    ]
+  },
+  "growthTrends": "",
+  "issueResolutionTime": "",
+  "recentActivity": {
+    "pushEvents": [
+      0,
+      0,
+      2,
+      7,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      10,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      13,
+      20,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "issueEvents": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "pullRequestEvents": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "codingHabits": {
+      "morning": 19,
+      "afternoon": 20,
+      "evening": 0,
+      "night": 29
+    },
+    "activeHour": [
+      1,
+      1,
+      8,
+      7,
+      5,
+      7,
+      7,
+      4,
+      4,
+      4,
+      0,
+      0,
+      7,
+      0,
+      10,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "activeDay": [
+      26,
+      5,
+      1,
+      1,
+      0,
+      4,
+      32
+    ]
+  },
+  "highActivityPeriods": "",
+  "topEngagement": "",
+  "contact": "ticklab.vn@gmail.com",
+  "githubUrl": "https://github.com/TickLabVN",
+  "socialMedia": {
+    "twitter": null,
+    "linkedin": "",
+    "facebook": ""
+  },
+  "blogUrl": "https://ticklab.vn",
+  "frameworks": {}
+}
