@@ -25,7 +25,7 @@ jobs:
         run: npm install
 
       - name: Use custom action to get data and create chart
-        uses: ./
+        uses: ThaiNguyenGiaBao/StatOrganization@v1.1
         with:
           org-name: "TickLabVN"
           token: ${{ secrets.GITHUB_TOKEN }}
