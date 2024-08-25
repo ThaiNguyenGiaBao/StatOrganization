@@ -1,6 +1,6 @@
 // const core = require('@actions/core');
 import core from '@actions/core';
-import { getData } from './getData.mjs';
+import { getData } from './getData.cjs';
 import { drawChart } from './drawChart.mjs';
 
 async function run() {

@@ -2,6 +2,7 @@ import { Octokit } from "@octokit/rest";
 import dotenv from "dotenv";
 import fs from "fs";
 
+
 async function getData(orgName, token) {
   dotenv.config();
   const octokit = new Octokit({
