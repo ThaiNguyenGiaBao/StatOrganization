@@ -1,8 +1,8 @@
 {
   "name": "statorg",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000S\u0000t\u0000a\u0000t\u0000O\u0000r\u0000g\u0000\r\u0000 \u0000",
   "main": "index.mjs",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
