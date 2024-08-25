@@ -64,19 +64,7 @@ export function drawChart(data) {
     200
   );
 
-  // Issue events
-  createBarChart(
-    data.recentActivity.issueEvents,
-    Array.from(
-      { length: data.recentActivity.issueEvents.length },
-      (v, i) => i + 1
-    ),
-    "Issue Events",
-    "issueEvents.png",
-    800,
-    200
-  );
-
+  
   // Pull request events
   createBarChart(
     data.recentActivity.pullRequestEvents,

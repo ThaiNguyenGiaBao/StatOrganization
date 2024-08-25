@@ -1,5 +1,4 @@
 name: Create org repo stats
-
 permissions: write-all
 
 on:
@@ -21,7 +20,7 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Install dependencie
+      - name: Install dependencieg
         run: npm install
 
       - run: ls
