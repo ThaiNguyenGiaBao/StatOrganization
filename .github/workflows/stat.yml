@@ -21,9 +21,6 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Install dependencie
-        run: npm install
-
       - run: ls
 
       - name: Use custom action to get data and create chart
