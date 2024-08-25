@@ -2,4 +2,6 @@ node_modules
 .env
 WithoutGitAction
 img
-data.json
+data.json!img/
+!img/
+!img/
