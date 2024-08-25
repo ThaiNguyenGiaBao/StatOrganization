@@ -3,30 +3,20 @@
   "founded": 2023,
   "description": "Start here, go anywhere",
   "avarta": "https://avatars.githubusercontent.com/u/128288626?v=4",
-  "activeMembers": 19,
+  "activeMembers": 4,
   "publicRepositories": 18,
   "programmingLanguages": [
     "TypeScript",
     "JavaScript",
-    "Dockerfile",
-    "Shell",
     "CSS",
+    "Dockerfile",
     "HTML",
-    "PLpgSQL",
+    "Shell",
     "Python",
-    "Dart",
-    "C++",
-    "CMake",
-    "Swift",
-    "C",
-    "Kotlin",
-    "Objective-C",
     "Rust",
     "Go",
-    "Cuda",
-    "Vue",
-    "Cython",
-    "Astro"
+    "Astro",
+    "C++"
   ],
   "followers": "",
   "contributors": "",
@@ -49,161 +39,127 @@
       "openIssues": 0
     },
     {
-      "name": "tpulse",
-      "description": "⏳Collect working time from members",
-      "license": null,
-      "stars": 8,
-      "forks": 0,
-      "openIssues": 4
-    },
-    {
       "name": "simple-csv-query-tool",
       "description": "C++ challenge for collborators",
       "license": null,
       "stars": 4,
       "forks": 1,
       "openIssues": 2
+    },
+    {
+      "name": "development-path",
+      "description": "Interactive roadmaps, guides and other educational content to help members & collaborators grow in their careers.",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "stars": 1,
+      "forks": 0,
+      "openIssues": 0
     }
   ],
   "repositoryStats": {
-    "totalStars": 56,
+    "totalStars": 41,
     "totalForks": 6,
-    "totalOpenIssues": 58,
+    "totalOpenIssues": 5,
     "totalClosedIssues": 0,
     "languages": [
       {
         "language": "Go",
-        "percentage": "0.18"
-      },
-      {
-        "language": "Rust",
-        "percentage": "0.90"
+        "percentage": "0.58"
       },
       {
         "language": "TypeScript",
-        "percentage": "34.73"
-      },
-      {
-        "language": "JavaScript",
-        "percentage": "3.45"
-      },
-      {
-        "language": "CSS",
-        "percentage": "0.31"
-      },
-      {
-        "language": "HTML",
-        "percentage": "0.60"
-      },
-      {
-        "language": "Dockerfile",
-        "percentage": "0.08"
-      },
-      {
-        "language": "Shell",
-        "percentage": "4.12"
-      },
-      {
-        "language": "PLpgSQL",
-        "percentage": "0.02"
+        "percentage": "75.28"
       },
       {
         "language": "Astro",
-        "percentage": "3.06"
+        "percentage": "10.11"
+      },
+      {
+        "language": "JavaScript",
+        "percentage": "9.04"
+      },
+      {
+        "language": "CSS",
+        "percentage": "0.66"
+      },
+      {
+        "language": "Shell",
+        "percentage": "0.35"
       },
       {
         "language": "C++",
-        "percentage": "0.86"
+        "percentage": "0.23"
+      },
+      {
+        "language": "Dockerfile",
+        "percentage": "0.07"
+      },
+      {
+        "language": "HTML",
+        "percentage": "1.77"
       },
       {
         "language": "Python",
-        "percentage": "45.72"
+        "percentage": "1.83"
       },
       {
-        "language": "Dart",
-        "percentage": "5.12"
-      },
-      {
-        "language": "CMake",
-        "percentage": "0.31"
-      },
-      {
-        "language": "Swift",
-        "percentage": "0.04"
-      },
-      {
-        "language": "C",
-        "percentage": "0.02"
-      },
-      {
-        "language": "Kotlin",
-        "percentage": "0.00"
-      },
-      {
-        "language": "Objective-C",
-        "percentage": "0.00"
-      },
-      {
-        "language": "Cuda",
-        "percentage": "0.28"
-      },
-      {
-        "language": "Vue",
-        "percentage": "0.15"
-      },
-      {
-        "language": "Cython",
-        "percentage": "0.04"
+        "language": "Rust",
+        "percentage": "0.07"
       }
     ],
     "commitPerDay": [
-      571,
-      995,
-      1039,
-      966,
+      439,
+      819,
+      868,
+      842,
+      694,
       818,
-      941,
-      1081
+      727
     ],
     "commitPerHour": [
-      257,
-      191,
-      179,
-      157,
-      147,
+      210,
+      173,
+      171,
+      140,
+      136,
+      79,
       81,
-      85,
-      52,
-      123,
-      183,
-      253,
-      311,
-      292,
-      288,
-      355,
-      425,
-      445,
-      422,
-      390,
-      363,
-      370,
-      389,
-      343,
-      310
+      50,
+      102,
+      142,
+      164,
+      215,
+      235,
+      234,
+      286,
+      333,
+      331,
+      354,
+      342,
+      305,
+      321,
+      303,
+      258,
+      242
     ],
     "commitPerMonthLastYear": [
-      37,
-      10,
-      2,
-      12,
+      50,
+      52,
+      101,
+      96,
+      242,
+      191,
+      208,
       0,
-      0,
-      0,
-      9,
-      5,
-      23,
-      36,
-      26
+      116,
+      139,
+      135,
+      84
     ]
   },
   "growthTrends": "",
@@ -235,7 +191,7 @@
       0,
       0,
       13,
-      19,
+      20,
       0,
       0,
       0,
@@ -309,7 +265,7 @@
       0
     ],
     "codingHabits": {
-      "morning": 18,
+      "morning": 19,
       "afternoon": 20,
       "evening": 0,
       "night": 29
@@ -323,7 +279,7 @@
       7,
       7,
       4,
-      3,
+      4,
       4,
       0,
       0,
@@ -341,7 +297,7 @@
       0
     ],
     "activeDay": [
-      25,
+      26,
       5,
       1,
       1,
