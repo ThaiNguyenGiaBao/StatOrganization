@@ -32,6 +32,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Override .gitignore for img folder
+        run: |
+          echo "!img/" >> .gitignore
       - run: ls
       - name: Commit changes
         run: |
