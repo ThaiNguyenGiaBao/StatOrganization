@@ -24,6 +24,8 @@ jobs:
       - name: Install dependencie
         run: npm install
 
+      - run: ls
+
       - name: Use custom action to get data and create chart
         uses: ThaiNguyenGiaBao/StatOrganization@v1.1
         with:
