@@ -1,0 +1,13 @@
+name: 'My Custom Chart Action'
+description: 'A custom action that gets data and draws a chart'
+inputs:
+  org-name:
+    description: 'Organization name'
+    required: true
+    default: 'TickLabVN'
+  token:
+    description: 'GitHub token'
+    required: true
+runs:
+  using: 'node20'
+  main: 'index.mjs'
