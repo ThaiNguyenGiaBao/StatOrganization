@@ -2,8 +2,10 @@
   "name": "statorg",
   "version": "1.0.0",
   "main": "index.mjs",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
@@ -17,5 +19,8 @@
     "dotenv": "^16.4.5",
     "fetch": "^1.1.0",
     "is-ci": "^3.0.1"
+  },
+  "exports": {
+    ".": "./index.js"
   }
 }
