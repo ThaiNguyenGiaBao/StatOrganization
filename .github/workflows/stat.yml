@@ -27,7 +27,8 @@ jobs:
       - run: ls
 
       - name: Use custom action to get data and create chart
-        uses: ThaiNguyenGiaBao/StatOrganization@v1.1
+        # uses: ThaiNguyenGiaBao/StatOrganization@v1.1
+        uses: ./ # Use the current repository
         with:
           org-name: "TickLabVN"
           token: ${{ secrets.GITHUB_TOKEN }}
